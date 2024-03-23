@@ -1,0 +1,10 @@
+C:\Programming\Project\KG_LR\KG_LR\bin\Debug\KG_LR.exe.config
+C:\Programming\Project\KG_LR\KG_LR\bin\Debug\KG_LR.exe
+C:\Programming\Project\KG_LR\KG_LR\bin\Debug\KG_LR.pdb
+C:\Programming\Project\KG_LR\KG_LR\obj\Debug\KG_LR.csproj.AssemblyReference.cache
+C:\Programming\Project\KG_LR\KG_LR\obj\Debug\KG_LR.Properties.Resources.resources
+C:\Programming\Project\KG_LR\KG_LR\obj\Debug\KG_LR.csproj.GenerateResource.cache
+C:\Programming\Project\KG_LR\KG_LR\obj\Debug\KG_LR.csproj.CoreCompileInputs.cache
+C:\Programming\Project\KG_LR\KG_LR\obj\Debug\KG_LR.exe
+C:\Programming\Project\KG_LR\KG_LR\obj\Debug\KG_LR.pdb
+C:\Programming\Project\KG_LR\KG_LR\obj\Debug\KG_LR.Form1.resources
