@@ -195,6 +195,12 @@ namespace KG_LR
             Filters filter = new MotionBlurFilter();
             backgroundWorker1.RunWorkerAsync(filter);
         }
+
+        private void зеркалоToolStripMenuItem_Click_1(object sender, EventArgs e)
+        {
+            Filters filter = new MirrorFilter();
+            backgroundWorker1.RunWorkerAsync(filter);
+        }
     }
     
 }

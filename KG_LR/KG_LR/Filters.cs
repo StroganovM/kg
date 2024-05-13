@@ -431,5 +431,19 @@ namespace KG_LR
             throw new NotImplementedException();
         }
     }
+    class MirrorFilter : Filters
+    {
+        protected override Color calculateNewPixelColor(Bitmap sourceImage, int x, int y)
+        {
+            if (x < sourceImage.Width / 2)
+            {
+                return sourceImage.GetPixel(x, y);
+            }
+            else
+            {
+                return sourceImage.GetPixel(sourceImage.Width - 1 - x, y);
+            }
+        }
+    }
 }
 
